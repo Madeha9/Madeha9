@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Madeha9
 - 👀 I’m interested in AI Engineering, Machine learning and medical Data Science projects 
-- 🌱 I’m currently leaving in Vienna/Austria 
+- 🌱 I’m currently  in Vienna/Austria 
 - 💞️ I’m looking to collaborate on  Tensorflow and Pytorch, python  projects 
 - 📫 How to reach me  conntact me 
-- 😄 Pronouns: ...
+- 😄 Pronouns: Madeha 
 - ⚡ Fun fact: coding 
 
 <!---
